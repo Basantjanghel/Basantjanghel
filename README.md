@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently looking for Opportunities in Full Stack Development (MERN Stack). 
-- 🌱 I’m currently learning MERN Stack.
+- 🔭 Full Stack Developer (MERN Stack). 
+- 🌱 I’m currently learning Node js.
 - 💬 Ask me about Web Development or any tech related stuff.
 - 📫 How to reach me: Twitter - [@basant_janghel](https://twitter.com/basant_janghel), Linkedin - [@Basant_Janghel](https://www.linkedin.com/in/basant-janghel-576ba01a0/).
 - 😄 Pronouns: He/His.
