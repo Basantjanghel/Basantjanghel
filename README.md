@@ -29,12 +29,4 @@
 
 ---
 
-### 📊 GitHub Activity
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Basantjanghel&theme=dark)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Basantjanghel&theme=github-dark)
-
----
-
 ⭐️ From [Basant Janghel](https://github.com/Basantjanghel)
