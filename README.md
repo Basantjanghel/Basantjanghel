@@ -1,12 +1,44 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Basant Janghel</h1>
+<h3 align="center">🚀 Full Stack Developer (MERN Stack)</h3>
 
-- 🔭 Full Stack Developer (MERN Stack). 
-- 🌱 I’m currently learning Node js.
-- 💬 Ask me about Web Development or any tech related stuff.
-- 📫 How to reach me: Twitter - [@basant_janghel](https://twitter.com/basant_janghel), Linkedin - [@Basant_Janghel](https://www.linkedin.com/in/basant-janghel-576ba01a0/).
-- 😄 Pronouns: He/His.
-- ⚡ Fun fact: Love to listening songs.
+---
 
-<img src="https://github-readme-stats.vercel.app/api?username=Basantjanghel&show_icons=true&title_color=ffffff&icon_color=3934D4&text_color=daf7dc&bg_color=151515" />
+### 👨‍💻 About Me
 
+- 🔭 I’m a **Full Stack Developer (MERN Stack)**  
+- 🌱 Currently diving deeper into **Node.js & Backend Architecture**
+- 💬 Ask me about **Web Development, React, Next.js, JavaScript**
+- ⚡ Fun fact: I love listening to music while coding 🎧
+- 😄 Pronouns: He/Him  
 
+---
+
+### 🛠️ Tech Stack
+
+- 💻 Frontend: React.js, Next.js, JavaScript, HTML, CSS  
+- ⚙️ Backend: Node.js, Express.js  
+- 🗄️ Database: MongoDB  
+- 🔧 Tools: Git, GitHub, Postman, VS Code  
+
+---
+
+### 🌐 Connect With Me
+
+- 🐦 Twitter: [@basant_janghel](https://twitter.com/basant_janghel)
+- 💼 LinkedIn: [Basant Janghel](https://www.linkedin.com/in/basant-janghel-576ba01a0/)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Basantjanghel&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Basantjanghel&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+⭐️ From [Basant Janghel](https://github.com/Basantjanghel)
