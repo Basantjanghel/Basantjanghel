@@ -29,16 +29,11 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Basantjanghel&show_icons=true&theme=radical" />
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Basantjanghel&layout=compact&theme=radical" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=Basantjanghel&theme=dark)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Basantjanghel&theme=radical" />
-</p>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Basantjanghel&theme=github-dark)
 
 ---
 
